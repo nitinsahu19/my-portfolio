@@ -8,31 +8,31 @@ const projects = [
     title: "BrainBucks Admin Dashboard",
     category: "Admin Dashboard",
     tools: "React.js, Next.js, Node.js, Express.js, MongoDB",
-    image: "public/images/brainbucks.svg",
+    image: "/images/brainbucks.svg",
   },
   {
     title: "EdVice Admin Panel",
     category: "Admin Management System",
     tools: "React.js, Next.js, Node.js, REST APIs",
-    image: "public/images/edvice.svg",
+    image: "/images/edvice.svg",
   },
   {
     title: "HRMS Platform",
     category: "Human Resource Management System",
     tools: "React.js, Node.js, Express.js, MongoDB, JWT Auth",
-    image: "public/images/hrms.svg",
+    image: "/images/hrms.svg",
   },
   {
     title: "AI Chatbot Integration",
     category: "AI Powered Application",
     tools: "React.js, Node.js, OpenAI API, REST APIs",
-    image: "public/images/chatbot.svg",
+    image: "/images/chatbot.svg",
   },
   {
     title: "Full-Stack Web Applications",
     category: "Web Platform Development",
     tools: "Next.js, React.js, Node.js, PostgreSQL, Tailwind CSS",
-    image: "public/images/webapps.svg",
+    image: "/images/webapps.svg",
   },
 ];
 
