@@ -1,7 +1,4 @@
-// src/types/gsap-splittext.d.ts
-
-// For SplitText plugin
-declare module "gsap/SplitText" {
+declare module "gsap-trial/SplitText" {
   export class SplitText {
     constructor(targets: string | string[] | Element | Element[], vars?: any);
     lines: any[];
@@ -10,8 +7,7 @@ declare module "gsap/SplitText" {
   }
 }
 
-// For ScrollSmoother plugin
-declare module "gsap/ScrollSmoother" {
+declare module "gsap-trial/ScrollSmoother" {
   const ScrollSmoother: any;
   export { ScrollSmoother };
 }

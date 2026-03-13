@@ -52,14 +52,6 @@ const Contact = () => {
               Instagram <MdArrowOutward />
             </a>
           </div>
-          {/* <div className="contact-box">
-            <h2>
-              Designed and Developed <br /> by <span>Nitin Sahu</span>
-            </h2>
-            <h5>
-              <MdCopyright /> 2025
-            </h5>
-          </div> */}
         </div>
       </div>
     </div>
